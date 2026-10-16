@@ -1,0 +1,27 @@
+{
+    "project": "AI-Based Shipbuilding and Ship Repairing Employment Pattern Analysis",
+    "algorithm": "Binary PSO",
+    "created_at": "2026-10-17T04:27:48.759191",
+    "dataset_records": 18,
+    "selected_features": [
+        "Sector",
+        "Officers_Share",
+        "Supervisors_Share"
+    ],
+    "best_fitness": 0.6292698412698412,
+    "best_model": "Random Forest",
+    "accuracy": 0.5555555555555556,
+    "precision": 0.5555555555555556,
+    "recall": 0.5555555555555556,
+    "f1_score": 0.5555555555555556,
+    "neural_network_training_accuracy": 0.8333333134651184,
+    "evaluation_method": "LOOCV",
+    "limitations": [
+        "Small historical dataset.",
+        "PSO feature selection uses the full dataset.",
+        "Reported LOOCV metrics are not nested-CV estimates.",
+        "Feature selection can produce optimistic performance.",
+        "Neural network accuracy is training accuracy only.",
+        "Results are exploratory and not production forecasts."
+    ]
+}

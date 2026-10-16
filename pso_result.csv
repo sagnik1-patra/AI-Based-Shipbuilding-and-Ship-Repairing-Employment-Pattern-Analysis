@@ -1,0 +1,19 @@
+Company,Sector,Total_Employment,Employment_Category,Predicted_Category,Correct_Prediction,PSO_Model
+Alcock Ashdown & Co. Ltd.,A. Public Sector,315,Medium,High,False,Random Forest
+C.I.W.T.C. Ltd.,A. Public Sector,1448,High,Medium,False,Random Forest
+Cochin Shipyard Ltd.,A. Public Sector,2496,High,High,True,Random Forest
+Garden Reach Shipbuilders & Engineers Ltd.,A. Public Sector,5750,High,High,True,Random Forest
+Goa Shipyard Ltd.,A. Public Sector,2157,High,High,True,Random Forest
+Hindustan Shipyard Ltd.,A. Public Sector,5299,High,High,True,Random Forest
+Hooghly Dock & Port Engineers Ltd.,A. Public Sector,1319,Medium,High,False,Random Forest
+Mazagon Dock Ltd.,A. Public Sector,10688,High,Medium,False,Random Forest
+Elite Shipyard,B. Private Sector,45,Low,Medium,False,Random Forest
+P.S. & Company,B. Private Sector,62,Low,Low,True,Random Forest
+Dempo Engineering Works Ltd.,B. Private Sector,245,Medium,Low,False,Random Forest
+ABG Shipyard Ltd.,B. Private Sector,82,Low,Low,True,Random Forest
+East Coast Boat Builders And Engineers Ltd.,B. Private Sector,111,Medium,Medium,True,Random Forest
+Bharti Shipyard Ltd. @,B. Private Sector,570,Medium,Low,False,Random Forest
+Chowgule & Co. Ltd.,B. Private Sector,37,Low,Low,True,Random Forest
+Alang Marine Ltd.,B. Private Sector,97,Low,Medium,False,Random Forest
+Shivam Engineers & Shipright Pvt. Ltd.,B. Private Sector,478,Medium,Medium,True,Random Forest
+Essar Services Ltd.,B. Private Sector,6,Low,Low,True,Random Forest

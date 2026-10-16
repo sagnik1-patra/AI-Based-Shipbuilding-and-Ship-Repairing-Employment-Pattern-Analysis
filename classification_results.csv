@@ -1,0 +1,19 @@
+Company,Sector,Total_Employment,Employment_Category,Predicted_Category,Correct_Prediction
+Alcock Ashdown & Co. Ltd.,Public,315,Medium,Low,False
+C.I.W.T.C. Ltd.,Public,1448,High,Medium,False
+Cochin Shipyard Ltd.,Public,2496,High,High,True
+Garden Reach Shipbuilders & Engineers Ltd.,Public,5750,High,High,True
+Goa Shipyard Ltd.,Public,2157,High,High,True
+Hindustan Shipyard Ltd.,Public,5299,High,High,True
+Hooghly Dock & Port Engineers Ltd.,Public,1319,Medium,High,False
+Mazagon Dock Ltd.,Public,10688,High,High,True
+Elite Shipyard,Private,45,Low,Medium,False
+P.S. & Company,Private,62,Low,Low,True
+Dempo Engineering Works Ltd.,Private,245,Medium,Low,False
+ABG Shipyard Ltd.,Private,82,Low,Medium,False
+East Coast Boat Builders And Engineers Ltd.,Private,111,Medium,Medium,True
+Bharti Shipyard Ltd. @,Private,570,Medium,Low,False
+Chowgule & Co. Ltd.,Private,37,Low,Low,True
+Alang Marine Ltd.,Private,97,Low,Medium,False
+Shivam Engineers & Shipright Pvt. Ltd.,Private,478,Medium,Low,False
+Essar Services Ltd.,Private,6,Low,Low,True

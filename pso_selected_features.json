@@ -1,0 +1,13 @@
+{
+    "algorithm": "Binary Particle Swarm Optimization",
+    "best_fitness": 0.6292698412698412,
+    "selected_features": [
+        "Sector",
+        "Officers_Share",
+        "Supervisors_Share"
+    ],
+    "selected_feature_count": 3,
+    "total_feature_count": 5,
+    "particles": 15,
+    "iterations": 20
+}
